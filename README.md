@@ -1,6 +1,6 @@
 # Mr. Moisture
 
-When he senses moisture he shouts!
+When he senses moisture he shouts! This uses the development board from https://github.com/MalphasWats/hawk
 
 ## Building
 
